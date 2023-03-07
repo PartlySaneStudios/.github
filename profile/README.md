@@ -1,4 +1,15 @@
-## ...
+## Partly Sane Studios
+### [Partly Sane Skies:](https://github.com/PartlySaneStudios/partly-sane-skies)
+
+[(https://github.com/PartlySaneStudios/partly-sane-skies)](https://github.com/PartlySaneStudios/partly-sane-skies)
+
+A QoL Skyblock mod developed by Su386 ([@Su386yt](https://github.com/Su386yt)) and FlagMaster ([@FlagHater](https://github.com/FlagMaster)).
+
+### Lead Developers:
+
+[@Su386yt](https://github.com/Su386yt)
+
+[@FlagHater](https://github.com/FlagHater)
 
 <!--
 
